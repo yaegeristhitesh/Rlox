@@ -1,4 +1,4 @@
-# Rust Interpreter
+# Interpretor in Rust
 
 A simple tree-walk interpreter written in Rust for an imaginary language.
 
